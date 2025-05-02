@@ -1,1 +1,1 @@
-# SMG
+# https://CALL-BOMBER.pySMG
